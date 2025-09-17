@@ -14,5 +14,3 @@ A simple web application built with Django that allows users to register, create
 ## Requirements
 - dependencies listed in requirements.txt
 
-## Based on 
-- corey schafer python django tutorial
